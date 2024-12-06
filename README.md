@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielleevandenbosch)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielleevandenbosch&layout=compact&exclude_repo=dwm,dmenu,st-1,st,dwm-archived,DWMIM,dotfiles,ugrind)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielleevandenbosch&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
